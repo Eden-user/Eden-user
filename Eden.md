@@ -1,4 +1,3 @@
-// https://github.com/Eden-user/Eden-user.git
 # .˳·˖✶𓆩𓁺𓆪✶˖·˳.
 
 Hi there. Welcome to my den :)
